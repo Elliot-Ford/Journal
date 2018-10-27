@@ -1,0 +1,10 @@
+site_name: Journal
+repo_name: 'Elliot-Ford/Journal'
+repo_url: 'https://github.com/Elliot-Ford/Tablet'
+theme:
+  name: 'material'
+pages:
+  - Index: index.md 
+  - Projects:
+    - CherryPi Tablet: Projects/tablet.md
+  - About: about.md
