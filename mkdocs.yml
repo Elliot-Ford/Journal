@@ -1,6 +1,6 @@
 site_name: Journal
 repo_name: 'Elliot-Ford/Journal'
-repo_url: 'https://github.com/Elliot-Ford/Tablet'
+repo_url: 'https://github.com/Elliot-Ford/Journal'
 theme:
   name: 'material'
 pages:
